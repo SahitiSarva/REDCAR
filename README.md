@@ -5,6 +5,7 @@ Testing Virutal environments
 
 Change, one must. 
 Change, again.
+Change is the only constant. 
 
 Project Organization
 ------------
